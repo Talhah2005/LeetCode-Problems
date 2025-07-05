@@ -1,4 +1,4 @@
-with methods
+// with methods
 var n=123;
 function reverse(){
   var reversed = Number(n.toString().split('').reverse().join(''));
@@ -6,7 +6,7 @@ function reverse(){
 }
 reverse();
 
-without methods
+// without methods
 function reverseWithoutMethods() {
 var n = 12345;
 var reversed = 0;
