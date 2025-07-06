@@ -7,8 +7,8 @@ function isPalindrome(num) {
         let p = document.createElement("p");
         p.style.color = "red";
         p.style.backgroundColor = "#ffe6e6";
-        p.style.padding = "10px";
-        p.style.fontSize = "18px";
+        p.style.padding = "11px";
+        p.style.fontSize = "19px";
         p.style.borderRadius = "8px";
         p.style.width = "fit-content";
         p.style.margin = "10px auto";
